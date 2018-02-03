@@ -1,9 +1,9 @@
 
 <h1 align="center">laravelAdminLTE</h1>
 <div align=center>
-![img](https://img.shields.io/badge/laravel-5.*-brightgreen.svg?style=flat-square)
-![img](https://img.shields.io/github/forks/myLeoScott/laravelAdminLTE.svg)
-![img](https://img.shields.io/github/stars/myLeoScott/laravelAdminLTE.svg)
+  <a href="https://github.com/myLeoScott/laravelAdminLTE"><img alt="" src="https://img.shields.io/badge/laravel-5.*-brightgreen.svg?style=flat-square" style="max-width:100%;"></a>
+<a href="https://github.com/myLeoScott/laravelAdminLTE"><img alt="" src="https://img.shields.io/github/forks/myLeoScott/laravelAdminLTE.svg" style="max-width:100%;"></a>
+<a href="https://github.com/myLeoScott/laravelAdminLTE"><img alt="" src="https://img.shields.io/github/stars/myLeoScott/laravelAdminLTE.svg" style="max-width:100%;"></a>
 </div>
 # laravelAdminLTE
 基于laravel5.5使用adminLTE 模板做的一个后台架子项目
