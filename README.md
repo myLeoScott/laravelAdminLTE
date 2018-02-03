@@ -1,3 +1,10 @@
+
+<h1 align="center">laravelAdminLTE</h1>
+<div align=center>
+![img](https://img.shields.io/badge/laravel-5.*-brightgreen.svg?style=flat-square)
+![img](https://img.shields.io/github/forks/myLeoScott/laravelAdminLTE.svg)
+![img](https://img.shields.io/github/stars/myLeoScott/laravelAdminLTE.svg)
+</div>
 # laravelAdminLTE
 基于laravel5.5使用adminLTE 模板做的一个后台架子项目
 # 使用的环境
